@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+.no-select {
+  user-select: none;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-evenly;
+}
